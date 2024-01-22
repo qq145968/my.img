@@ -230,7 +230,7 @@ CGNT频道,https://hlsliveali-cdn.ysp.cctv.cn/F0439A8F04DF53914ACA8C0D182270FF30
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-港-澳-台,#genre#	
+港澳台┃不保稳,#genre#	
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8?$官源 720P
 翡翠台,http://r.jdshipin.com/qClQf?$rad GD 1080P
 TVB星河,http://sc2022.stream-link.org/tv2306.php?id=c02
