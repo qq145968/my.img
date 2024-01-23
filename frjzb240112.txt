@@ -89,6 +89,7 @@
 
 🎵清晨醒脑！T-ARA根本停不下来,https://openhls-tct.douyucdn2.cn/dyliveflv3a/17732rtara_2000.m3u8
 
+👀名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
 👀【天使点播】动漫直播间,http://epg.112114.xyz/douyu/1487654
 👀【柯南】外表看似小孩，智慧却过于常人,https://openhls-tct.douyucdn2.cn/dyliveflv3/6484910rlIOJg4kM_2000.m3u8
 👀与斗鱼一起，续光未来,https://openhls-tct.douyucdn2.cn/dyliveflv3a/1487654rtKSW9x8u_2000.m3u8
@@ -157,7 +158,6 @@
 三十正美丽,http://bp-caster.bestv.com.cn/492/1/video.m3u8
 高能脱口秀,http://bp-caster.bestv.com.cn/462/1/video.m3u8
 追光吧哥哥,http://bp-caster.bestv.com.cn/460/1/video.m3u8
-名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
 花样姐姐,http://bp-caster.bestv.com.cn/559/1/video.m3u8
 完美的夏天,http://bp-caster.bestv.com.cn/510/1/video.m3u8
 宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
@@ -1760,7 +1760,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
 
 
-🔐 ｜激情無碼_0507,#genre#
+🔐 ｜激情無碼_0000,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
