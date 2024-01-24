@@ -52,12 +52,12 @@
   ],
   "parses": [
     {
-      "name": "聚合",
+      "name": "关注公众号",
       "type": 3,
       "url": "https://vip1.json.vin/api/?key=kEimFA1CL7JsQP21zg&url="
     },
     {
-      "name": "聚合",
+      "name": "云尚品互联",
       "type": 1,
       "url": "https://vip1.json.vin/api/?key=kEimFA1CL7JsQP21zg&url=",
       "ext": {
