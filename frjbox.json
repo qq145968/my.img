@@ -3,6 +3,16 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "meowtv_ngys",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "wjm3u8",
       "name": "暂用无尽资源┃云尚品站出现了一点问题",
       "type": 1,
