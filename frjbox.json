@@ -56,7 +56,11 @@
       "type": 3,
       "url": "https://vip1.json.vin/api/?key=kEimFA1CL7JsQP21zg&url="
     },
-    ],
+    {
+      "name": "聚合",
+      "type": 1,
+      "url": "https://vip1.json.vin/api/?key=kEimFA1CL7JsQP21zg&url=",
+      "ext": {
         "flag": [
           "qq",
           "腾讯",
