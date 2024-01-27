@@ -603,25 +603,6 @@ ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 越南·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
-🎉｜YouTube,#genre#
-【需要翻墙】,https://
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
-EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
-东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
-饥饿游戏,https://www.youtube.com/watch?v=3xe-R00ijC4
-东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
-
 🚩｜历年春晚,#genre#	
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
