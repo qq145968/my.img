@@ -432,9 +432,9 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 
+宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
-宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -454,8 +454,8 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 
-内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
@@ -472,8 +472,6 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-
-上海纪实,http://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 
 ⚛️ ｜港澳台,#genre#	
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
