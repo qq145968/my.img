@@ -273,34 +273,31 @@ CCTV17农业农村,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 🎬｜卫视频道,#genre#
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiansuHD
 江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 
+湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,http://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 湖南卫视,http://118.253.0.24:2023/tsfile/live/0018_1.m3u8?
-湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
 
 湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
 湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 
+浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
 浙江卫视,http://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejianHD
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
 浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
 
-东方卫视,http://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8？
+北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
@@ -313,7 +310,6 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 天津卫视,http://221.213.43.82:8888/newlive/live/hls/42/live.m3u8
 
-安徽卫视,http://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 
@@ -326,23 +322,15 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230227aesvnb
 
-东南卫视,http://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-东南卫视,http://api3.52tb.xyz/info?id=29&token=20230227aesvnb
 东南卫视,http://58.23.26.220:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 
-四川卫视,http://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
 
-辽宁卫视,http://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 辽宁卫视,http://221.213.43.82:8888/newlive/live/hls/43/live.m3u8
 
-吉林卫视,http://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
-吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
-吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
+吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 
 黑龙江卫视,http://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -379,9 +367,9 @@ CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 
-广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,http://117.141.149.101:9901/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
+广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
+广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 
 江西卫视,http://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
