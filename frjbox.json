@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "meowtv_ngys",
-      "name": "暂用南瓜影视┃云尚品站修复点问题",
+      "name": "🚀云尚品影视┃资源🚀秒波/秒更",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -24,7 +24,7 @@
     },  
     {
       "key": "meowtv_lrys",
-      "name": "🚀云尚品影视┃资源🚀秒波/秒更",
+      "name": "🚀云尚品影视站┃暂停",
       "type": 1,
       "api": "https://www.yunmovie.site/api.php/provide/vod/?ac=list",
       "searchable": 1,
