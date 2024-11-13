@@ -39,7 +39,7 @@
       "key": "wjm3u8",
       "name": "无尽┃资源",
       "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
