@@ -1,6 +1,6 @@
 "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-   "warningText": "资源来自米兔TV，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
      {"key": "csp_KungFu404","name": "🔥┃设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
@@ -8,55 +8,12 @@
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./libs/tv/zb.json"},
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
-    {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto",  "siteUrl": "https://www.wogg.net/",  "danMu": "弹"}
+    {"key": "csp_douban","name": "🚀米兔TV","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto",  "siteUrl": "https://www.wogg.net/",  "danMu": "弹"}
     },
-     {
-      "key": "meowtv_ngys",
-      "name": "🚀米兔TV影视┃资源🚀秒波/秒更",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
+     {"key": "csp_douban","name": "🚀关注公众号","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto",  "siteUrl": "https://www.wogg.net/",  "danMu": "弹"}
     },
-    {
-      "key": "wjm3u8",
-      "name": "无尽┃资源",
-      "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "json:https://vip1.json.vin:66/api/?key=kEimFA1CL7JsQP21zg&url="     
-    },  
-    {
-      "key": "meowtv_lrys",
-      "name": "🚀米兔TC影视站┃暂停",
-      "type": 1,
-      "api": "https://www.yunmovie.site/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "json:https://vip1.json.vin:66/api/?key=kEimFA1CL7JsQP21zg&url="
+     {"key": "csp_douban","name": "🚀米兔互联","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto",  "siteUrl": "https://www.wogg.net/",  "danMu": "弹"}
     },
-    {
-      "key": "米兔互联",
-      "name": "米兔YV盒子二次开发版/也是最终版，版本9.9.99版",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "更新",
-      "name": "公众号：米兔互联，发送-视频-获取最新版",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0
-    }
     {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0
    },
     {"key": "alllive","name": "📽️┃一直播┃LIVE","type": 3,"api": "csp_Alllive","playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0
