@@ -3,16 +3,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "meowtv_ngys",
-      "name": "🚀云尚品影视┃资源🚀秒波/秒更",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "wjm3u8",
       "name": "无尽┃资源",
       "type": 1,
@@ -22,6 +12,16 @@
       "filterable": 1,
       "playUrl": "json:https://vip1.json.vin:66/api/?key=kEimFA1CL7JsQP21zg&url="     
     },  
+    {
+      "key": "meowtv_ngys",
+      "name": "🚀云尚品影视┃资源🚀秒波/秒更",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
     {
       "key": "meowtv_lrys",
       "name": "🚀云尚品影视站┃暂停",
