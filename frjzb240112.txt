@@ -46,7 +46,7 @@
 
 
 🇨🇳｜央视频道,#genre#
-CCTV-1综合, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId= 
+CCTV-1综合,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId= 
 CCTV-1综合,http://114.252.114.248:8445/udp/239.3.1.129:8008,1.01
 CCTV-1综合,http://111.199.234.10:18888/udp/239.3.1.129:8008,1.01
 CCTV-1综合,http://60.16.75.126:45555/udp/232.0.0.27:1234,1.02
@@ -74,7 +74,7 @@ CCTV-1综合,http://123.113.237.160:8888/udp/239.3.1.129:8008,0.31
 CCTV-1综合,http://60.7.56.33:4000/udp/239.253.92.83:8012,0.27
 CCTV-1综合,http://114.252.238.87:8000/udp/239.3.1.129:8008,0.21
 
-CCTV-2财经, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId= 
+CCTV-2财经,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId= 
 CCTV-2财经,http://114.252.114.248:8445/udp/239.3.1.60:8084,1.01
 CCTV-2财经,http://111.199.234.10:18888/udp/239.3.1.60:8084,1.01
 CCTV-2财经,http://60.16.75.126:45555/udp/232.0.0.135:1234,1.02
@@ -102,7 +102,7 @@ CCTV-2财经,http://123.113.237.160:8888/udp/239.3.1.60:8084,0.31
 CCTV-2财经,http://60.7.56.33:4000/udp/239.253.92.190:6065,0.27
 CCTV-2财经,http://114.252.238.87:8000/udp/239.3.1.60:8084,0.21
 
-CCTV-3综艺, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId= 
+CCTV-3综艺,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId= 
 CCTV-3综艺,http://114.252.114.248:8445/udp/239.3.1.172:8001,1.01
 CCTV-3综艺,http://111.199.234.10:18888/udp/239.3.1.172:8001,1.01
 CCTV-3综艺,http://60.16.75.126:45555/udp/232.0.0.170:1234,1.02
@@ -130,7 +130,7 @@ CCTV-3综艺,http://123.113.237.160:8888/udp/239.3.1.172:8001,0.31
 CCTV-3综艺,http://60.7.56.33:4000/udp/239.253.92.191:6057,0.27
 CCTV-3综艺,http://114.252.238.87:8000/udp/239.3.1.172:8001,0.21
 
-CCTV-4中文国际, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId= 
+CCTV-4中文国际,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId= 
 CCTV-4中文国际,http://114.252.114.248:8445/udp/239.3.1.105:8092,1.01
 CCTV-4中文国际,http://111.199.234.10:18888/udp/239.3.1.105:8092,1.01
 CCTV-4中文国际,http://60.16.75.126:45555/udp/232.0.0.201:1234,1.02
@@ -187,7 +187,7 @@ CCTV-5体育,http://123.113.237.160:8888/udp/239.3.1.173:8001,0.31
 CCTV-5体育,http://60.7.56.33:4000/udp/239.253.92.181:6046,0.27
 CCTV-5体育,http://114.252.238.87:8000/udp/239.3.1.173:8001,0.21
 
-CCTV-5+体育赛事, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId= 
+CCTV-5+体育赛事,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId= 
 CCTV-5+体育赛事,http://114.252.114.248:8445/udp/239.3.1.130:8004,1.01
 CCTV-5+体育赛事,http://111.199.234.10:18888/udp/239.3.1.130:8004,1.01
 CCTV-5+体育赛事,http://60.16.75.126:45555/udp/232.0.0.93:1234,1.02
@@ -572,9 +572,9 @@ CCTV-17农业农村,http://123.113.237.160:8888/udp/239.3.1.151:8144,0.31
 CCTV-17农业农村,http://60.7.56.33:4000/udp/239.253.93.150:6318,0.27
 CCTV-17农业农村,http://114.252.238.87:8000/udp/239.3.1.151:8144,0.21
 
-CCTV-4K 超高清,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId= 
-CCTV-4 欧洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId= 
-CCTV-4 美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId= 
+CCTV-4K超高清,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId= 
+CCTV-4欧洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId= 
+CCTV-4美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId= 
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId= 
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId= 
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
