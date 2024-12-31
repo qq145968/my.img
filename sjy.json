@@ -1,23 +1,26 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06r",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
      {"key": "csp_KungFu404","name": "🔥┃设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
-     {"key": "APP商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./libs/market.json","jar": "./libs/jar/app.jar"},
+    {"key": "APP商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./libs/market.json","jar": "./libs/jar/app.jar"},
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./libs/tv/zb.json"},
-     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
-     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
-     {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 }
-     {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0
+    {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
+    {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
+    {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "#",  "from": "4k|auto",  "siteUrl": "#",  "danMu": "弹"}
     },
+    {"key": "YGP","name": "🚀┃叨观┃新片","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0
+   },
     {"key": "alllive","name": "📽️┃一直播┃LIVE","type": 3,"api": "csp_Alllive","playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0
     },
     {"key": "米搜","name": "🦋┃米盘┃搜搜","type": 3,"api": "csp_MIPanSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto"}
     },
     {"key": "抠搜","name": "🍄┃抠抠┃搜搜","type": 3,"api": "csp_KkSs","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto"}
+    },
+    {"key": "Lib","name": "🌟┃Lib┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto"}
     },
     {"key": "文采","name": "💮┃文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1
     },
