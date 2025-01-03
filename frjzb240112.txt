@@ -38,11 +38,12 @@
 春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 
-🎦｜️狂飙点播,#genre#
-狂飙 第一集,https://vip.lz-cdn3.com/20230114/17154_db8125dc/1800k/hls/mixed.m3u8
-狂飙 第二集,https://vip.lz-cdn3.com/20230114/17153_ab4d621a/1800k/hls/mixed.m3u8
-狂飙 第三集,https://vip.lz-cdn3.com/20230114/17152_a52e37f9/1800k/hls/mixed.m3u8
-狂飙 第四集,https://vip.lz-cdn3.com/20230114/17151_4542e04e/1800k/hls/mixed.m3u8
+🎦｜️星爷点播,#genre#
+少林足球,https://vod2.bdzybf11.com/20220330/BKZo64ZE/index.m3u8
+功夫,https://vod2.bdzybf11.com/20220330/UAbV5ph5/index.m3u8
+食神,https://vod2.bdzybf11.com/20220330/jsulEOoe/index.m3u8
+鹿鼎记1,https://vod2.bdzybf11.com/20220331/KxCacja6/index.m3u8
+鹿鼎记2,https://vod2.bdzybf11.com/20220331/2jEo0RKE/index.m3u8
 狂飙 第五集,https://vip.lz-cdn3.com/20230114/17150_abade231/1800k/hls/mixed.m3u8
 狂飙 第六集,https://vip.lzcdn2.com/20230115/23356_f73a5483/1800k/hls/mixed.m3u8
 狂飙 第七集,https://vip.lzcdn2.com/20230115/23355_f43e640a/1800k/hls/mixed.m3u8
