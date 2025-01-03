@@ -44,41 +44,20 @@
 食神,https://vod2.bdzybf11.com/20220330/jsulEOoe/index.m3u8
 鹿鼎记1,https://vod2.bdzybf11.com/20220331/KxCacja6/index.m3u8
 鹿鼎记2,https://vod2.bdzybf11.com/20220331/2jEo0RKE/index.m3u8
-狂飙 第五集,https://vip.lz-cdn3.com/20230114/17150_abade231/1800k/hls/mixed.m3u8
-狂飙 第六集,https://vip.lzcdn2.com/20230115/23356_f73a5483/1800k/hls/mixed.m3u8
-狂飙 第七集,https://vip.lzcdn2.com/20230115/23355_f43e640a/1800k/hls/mixed.m3u8
-狂飙 第八集,https://vip.lzcdn2.com/20230116/23419_27b37cf8/1800k/hls/mixed.m3u8
-狂飙 第九集,https://vip.lzcdn2.com/20230116/23418_139fc861/1800k/hls/mixed.m3u8
-狂飙 第十集,https://vip.lzcdn2.com/20230117/23466_0094544a/1800k/hls/mixed.m3u8
-狂飙 第十一集,https://vip.lzcdn2.com/20230117/23465_e341c79f/1800k/hls/mixed.m3u8
-狂飙 第十二集,https://hd.lz-cdn18.com/20230118/14_5c240b76/2000k/hls/mixed.m3u8
-狂飙 第十三集,https://hd.lz-cdn18.com/20230118/13_66033d12/2000k/hls/mixed.m3u8
-狂飙 第十四集,https://hd.lz-cdn18.com/20230119/21_7325557b/2000k/hls/mixed.m3u8
-狂飙 第十五集,https://hd.lz-cdn18.com/20230119/20_8d21dc5b/2000k/hls/mixed.m3u8
-狂飙 第十六集,https://hd.lz-cdn18.com/20230120/40_e60ad997/2000k/hls/mixed.m3u8
-狂飙 第十七集,https://vip.lzcdn2.com/20230121/23543_4f58c1fd/1800k/hls/mixed.m3u8
-狂飙 第十八集,https://vip.lzcdn2.com/20230122/23566_c2819f34/1800k/hls/mixed.m3u8
-狂飙 第十九集,https://vip.lzcdn2.com/20230122/23565_0c2ae732/1800k/hls/mixed.m3u8
-狂飙 第二十集,https://vip.lzcdn2.com/20230123/23579_1a67afc6/1800k/hls/mixed.m3u8
-狂飙 第二十一集,https://vip.lzcdn2.com/20230123/23578_e3d66498/1800k/hls/mixed.m3u8
-狂飙 第二十二集,https://hd.lz-cdn18.com/20230124/115_aa734ff7/2000k/hls/mixed.m3u8
-狂飙 第二十三集,https://hd.lz-cdn18.com/20230124/114_d696d594/2000k/hls/mixed.m3u8
-狂飙 第二十四集,https://vip.lzcdn2.com/20230125/23613_326a56c0/1800k/hls/mixed.m3u8
-狂飙 第二十五集,https://vip.lzcdn2.com/20230125/23612_9783c1ee/1800k/hls/mixed.m3u8
-狂飙 第二十六集,https://hd.lz-cdn18.com/20230126/155_7258f3cc/2000k/hls/mixed.m3u8
-狂飙 第二十七集,https://hd.lz-cdn18.com/20230127/198_7877b31c/2000k/hls/mixed.m3u8
-狂飙 第二十八集,https://hd.lz-cdn18.com/20230127/197_e1fe4c05/2000k/hls/mixed.m3u8
-狂飙 第二十九集,https://hd.lz-cdn18.com/20230127/196_604186b7/2000k/hls/mixed.m3u8
-狂飙 第三十集,https://vip.lzcdn2.com/20230128/23649_fd06986f/1800k/hls/mixed.m3u8
-狂飙 第三十一集,https://vip.lzcdn2.com/20230128/23648_622b2fa9/1800k/hls/mixed.m3u8
-狂飙 第三十二集,https://hd.lz-cdn18.com/20230129/248_18bd48a7/2000k/hls/mixed.m3u8
-狂飙 第三十三集,https://hd.lz-cdn18.com/20230129/247_61a22a1f/2000k/hls/mixed.m3u8
-狂飙 第三十四集,https://vip.lzcdn2.com/20230130/23690_ec7e6c19/1800k/hls/mixed.m3u8
-狂飙 第三十五集,https://vip.lzcdn2.com/20230130/23689_605a61b6/1800k/hls/mixed.m3u8
-狂飙 第三十六集,https://hd.lz-cdn18.com/20230131/297_cc76dd2f/2000k/hls/mixed.m3u8
-狂飙 第三十七集,https://hd.lz-cdn18.com/20230131/296_f35955e8/2000k/hls/mixed.m3u8
-狂飙 第三十八集,https://vip.lzcdn2.com/20230201/23716_c10840ec/1800k/hls/mixed.m3u8
-狂飙 第三十九集,https://vip.lzcdn2.com/20230201/23715_44218045/1800k/hls/mixed.m3u8
+赌圣,https://vod6.bdzybf11.com/20240218/DUWAF67s/index.m3u8
+赌侠1,https://vod2.bdzybf11.com/20220330/twjBeC1c/index.m3u8
+赌侠2,https://vod6.bdzybf11.com/20240216/Er13dp3V/index.m3u8
+新精武门,https://vod6.bdzybf11.com/20240217/c4SGBHHZ/index.m3u8
+龙的传人,https://vod1.bdzybf11.com/20220511/832Rn2xM/index.m3u8
+国产凌凌漆,https://vod2.bdzybf11.com/20220330/RUZuZi2B/index.m3u8
+长江七号,https://vod5.bdzybf11.com/20220627/6lkkuheB/index.m3u8
+唐伯虎点秋香,https://vod2.bdzybf11.com/20220330/Fqm4lptt/index.m3u8
+审死官,https://vod2.bdzybf11.com/20220330/3G1jTS69/index.m3u8
+武状元苏乞儿,https://vod6.bdzybf11.com/20231007/irLW4QaE/index.m3u8
+九品芝麻官,https://vod6.bdzybf11.com/20240216/nDxEeFaD/index.m3u8
+大话西游之月光宝盒,https://vod6.bdzybf11.com/20240216/1LMnBVfL/index.m3u8
+大话西游之大圣娶亲,https://vod6.bdzybf11.com/20240216/kbvunYLI/index.m3u8
+
 
 🇨🇳｜央视频道,#genre#
 CCTV-1综合,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
@@ -2018,90 +1997,88 @@ T-ARA根本停不下来,https://live.metshop.top/douyu/17732
 
 
 🔐｜激情無碼_0501,#genre#
-carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+carib-1,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+carib-2,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib-3,chttps://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib-4,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib-5,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+carib-6,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+carib-7,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib-8,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib-9,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib-10,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+carib-11,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+carib-12,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib-13,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib-14,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib-15,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib-16,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+carib-17,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib-18,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+carib-19,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+carib-20,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+carib-21,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib-22,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+carib-23,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib-24,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib-25,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib-26,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib-27,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib-28,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib-29,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib-30,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+carib-31,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib-32,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib-33,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+carib-34,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+carib-35,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib-36,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+carib-37,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+carib-38,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+carib-39,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+carib-40,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+carib-41,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+carib-42,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+carib-43,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+carib-44,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+carib-45,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+carib-46,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+carib-47,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+carib-48,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+carib-49,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+carib-50,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+carib-51,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+carib-52,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+carib-53,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+carib-54,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+carib-55,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+carib-56,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+carib-57,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+carib-58,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+carib-59,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+carib-60,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+carib-61,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+carib-62,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+carib-63,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+carib-64,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+carib-65,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+carib-66,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
 🔐｜🔞🈲_0501,#genre#
-CAWD-092,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
-EBOD-829,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
-IPX-511,https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
-MEYD-647,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
-SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
-SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
-UMD-737,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
-WAAA-087,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
-
-🔐｜🔞🈲直播_0501,#genre#
-一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+推荐一,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
+CAWD-1,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+CAWD-2,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+CAWD-3,https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+CAWD-4,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+CAWD-5,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
+CAWD-6,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
+CAWD-7,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
 日本动漫2,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
 日韩无码1,https://m3u8.46cdn.com/videos/akex/1905/N8UFEDcj/N8UFEDcj.m3u8
+一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 无码1,https://vip4.ddyunbo.com/20210210/1NeUm8qM/index.m3u8?skipl=1
 无码2,https://vip4.ddyunbo.com/20210208/y1rcwQRD/index.m3u8?skipl=1
 无码3,https://vip4.ddyunbo.com/20210208/7lfbSciu/index.m3u8?skipl=1
