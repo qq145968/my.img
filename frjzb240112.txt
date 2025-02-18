@@ -53,14 +53,6 @@
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-少林足球,https://vod2.bdzybf11.com/20220330/BKZo64ZE/index.m3u8
-功夫,https://vod2.bdzybf11.com/20220330/UAbV5ph5/index.m3u8
-食神,https://vod2.bdzybf11.com/20220330/jsulEOoe/index.m3u8
-鹿鼎记1,https://vod2.bdzybf11.com/20220331/KxCacja6/index.m3u8
-鹿鼎记2,https://vod2.bdzybf11.com/20220331/2jEo0RKE/index.m3u8
-长江七号,https://vod5.bdzybf11.com/20220627/6lkkuheB/index.m3u8
-大话西游之月光宝盒,https://vod6.bdzybf11.com/20240216/1LMnBVfL/index.m3u8
-大话西游之大圣娶亲,https://vod6.bdzybf11.com/20240216/kbvunYLI/index.m3u8
 周处除三害HD,https://vdn6.vzuu.com/FHD/683acd86-d92b-11ee-8e89-e612311e17dc-v8_f2_t1_lt47s5CP.mp4?pkey=AAXMfeKoB_fI1KmFPSQciIKPe77iiWVFBSkH3k2LwDBub89_yCkopNRYmr8_-Nl3pWa8fMB5TdeH9aGluG8GHg7R&c=avc.8.0&f=mp4&pu=1513c7c2&bu=1513c7c2&expiration=1710262506&v=ks6?pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q=
 第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
 热辣滚烫TH,https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
@@ -594,31 +586,12 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
 大湾区卫视,http://tv.20191209.xyz:37377/migu/608917627.m3u8?migutoken=9834d810bca2c8694ae0e82057357a221a863429f08360a858b31c312185e541b0c4e94c3f4e5c15838761b6e369b796ec139c7f8c819c0861e03d26cd07a26a6738deb1cade7ee3fa7648dd
 
 
-
-👦｜浙江综合,#genre#
-义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine 
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8 
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8 
-浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8 
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8 
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8 
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8 
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8 
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8 
-数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8 
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed 
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed 淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed 
-淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed 
-余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed 
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed 
-嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed 
-嵊州新闻综合,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed 
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed 海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed 
-海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed 
-兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-
-
 ⚛️ ｜港澳台,#genre#	
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
+
+凤凰香港台,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -640,7 +613,29 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
 
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477080.m3u8
+
+中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477695.m3u8
+中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
+
+东森新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+东森新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8
+
+寰宇新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
+
+非凡新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477083.m3u8
+
+三立新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/492922.m3u8
+
+年代新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477030.m3u8
+
+闽壹新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
+
+中视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476269.m3u8
+
+华视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476266.m3u8
+
+台视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476268.m3u8
 
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
@@ -651,6 +646,7 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 澳门卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+
 
 🅾｜海外台,#genre#
 日本·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
@@ -741,9 +737,9 @@ ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
 蓝翔-60帧原画华语喜剧电影,https://live.metshop.top/douyu/276200
 
-❤️怡寶今天3倍亲密度哟,https://live.metshop.top/douyu/434971
+❤️怡寶3倍亲密度哟,https://live.metshop.top/douyu/434971
 
-贝贝3倍亲密度~武汉妹子陪看,https://live.metshop.top/douyu/431460
+贝贝3倍亲密度,https://live.metshop.top/douyu/431460
 
 表妹-国产青春动作轮播,https://live.metshop.top/douyu/5423
 
@@ -755,15 +751,39 @@ ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
 漫威宇宙电影,https://live.metshop.top/douyu/11673725
 
+经典美剧解说,http://wab201.win:35455/douyu/9643264
+
 周星驰电影,https://live.metshop.top/douyu/122402
 
 刘德华电影,https://live.metshop.top/douyu/2516864
 
 成龙李电影,https://live.metshop.top/douyu/3379942
 
-万合天宜-王大锤情怀上线,https://live.metshop.top/douyu/9220456
+王大锤情怀上线,https://live.metshop.top/douyu/9220456
 
 陈翔六点半,https://live.metshop.top/douyu/2132902
+
+第一滴血全集轮播,http://wab201.win:35455/yy/1354932355
+
+敢死队全集轮播,http://wab201.win:35455/yy/1382735573
+
+速度与激情全集,http://wab201.win:35455/yy/1382736911
+
+漫威系列轮播,http://wab201.win:35455/yy/1354932402
+
+变形金刚轮播,http://wab201.win:35455/yy/1382736803
+
+哈利波特全集,http://wab201.win:35455/yy/1382745105
+
+夺宝奇兵全集,http://wab201.win:35455/yy/1382736833
+
+机械战警全集,http://wab201.win:35455/yy/1382736854
+
+古惑仔系列轮播,http://wab201.win:35455/yy/1458015189
+
+黑衣人一二轮播,http://wab201.win:35455/yy/1354930936
+
+异形全集轮播,https://lunbo.freetv.top/yy/1382735543
 
 ❤️奶虫-恐怖丧尸鬼片灾难科幻,https://live.metshop.top/douyu/263824
 
@@ -801,16 +821,64 @@ T-ARA根本停不下来,https://live.metshop.top/douyu/17732
 
 动漫超燃-怀旧经典,https://live.metshop.top/douyu/1174353
 
-🎬｜剧集连播,#genre#
+🎬｜剧集轮播,#genre#
 金庸武侠古装,https://live.metshop.top/douyu/338759
 
-鬼吹灯一,https://live.metshop.top/douyu/5635000
+鬼吹灯系列,https://live.metshop.top/douyu/5635000
 
-鬼吹灯二,https://live.metshop.top/douyu/11279861
+康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
 
-康熙微服私访记,https://live.metshop.top/douyu/7550220
+铁齿铜牙纪晓岚,https://lunbo.freetv.top/yy/1354143978
 
-铁齿铜牙纪晓岚,https://live.metshop.top/douyu/9071554
+仙剑奇侠传剧,http://wab201.win:35455/yy/1382749903
+
+花千骨电视剧,http://wab201.win:35455/yy/1354943110
+
+庆余年电视剧,http://rihou.cc:555/huyad.php?id=11352960
+
+新白娘子轮播,http://wab201.win:35455/yy/1354930969
+
+甄嬛传电视剧,http://rihou.cc:555/huyad.php?id=30145009
+
+芈月传电视剧,http://rihou.cc:555/huyad.php?id=11352975
+
+延禧攻略轮播,http://rihou.cc:555/huyad.php?id=26355864
+
+与凤行电视剧,http://rihou.cc:555/huyad.php?id=26355866
+
+83射雕英雄传,http://wab201.win:35455/yy/1354210357
+
+95神雕侠侣粤,http://wab201.win:35455/yy/1354926637
+
+96笑傲江湖版,http://wab201.win:35455/yy/1354930909
+
+87经典红楼梦,http://wab201.win:35455/yy/1382745084
+
+鹊刀门传奇剧,http://wab201.win:35455/yy/1355344777
+
+开端电视轮播,http://rihou.cc:555/huyad.php?id=11342397
+
+我的体育老师,http://wab201.win:35455/yy/1382745169
+
+如果岁月轮播,http://wab201.win:35455/yy/1382736883
+
+流金岁月轮播,http://wab201.win:35455/yy/1382749906
+
+欢乐颂电视剧,http://wab201.win:35455/douyu/3756989
+
+好先生电视剧,http://wab201.win:35455/douyu/9650792
+
+我的前半生剧,http://wab201.win:35455/yy/1382735564
+
+伪装者电视剧,http://wab201.win:35455/yy/1354936244
+
+亮剑电视轮播,http://rihou.cc:555/huyad.php?id=30080238
+
+雪豹电视轮播,http://rihou.cc:555/huyad.php?id=29580970
+
+火蓝刀锋轮播,http://wab201.win:35455/yy/1382737892
+
+武林外传轮播,http://wab201.win:35455/yy/1355652820
 
 新三国,https://live.metshop.top/douyu/5908256
 
@@ -824,9 +892,6 @@ T-ARA根本停不下来,https://live.metshop.top/douyu/17732
 
 国产播不停,https://live.metshop.top/douyu/7623292
 
-📀｜YY轮播,#genre#
-📀｜虎牙轮播,#genre#
-📀｜斗鱼轮播,#genre#
 
 🥟｜小品相声,#genre#
 经典小品，下饭必备,https://live.metshop.top/douyu/9067836
