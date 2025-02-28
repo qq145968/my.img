@@ -1,10 +1,8 @@
 {
-"spider":"./jar/fan.txt;md5;925a350dec8cef32186a919fe28e2fe4",
-"lives":[
-    {"name":"live","boot": false,"type":0,"url":"./tv.txt","playerType":2,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://logo.swsixtwo.top/{name}.png"}
-],
-"wallpaper":"https://qist.cc/api/api.php",
-"sites":[
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06r",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+   "sites": [
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TVB云播.js"},
 {"key":"闪雷","name":"闪雷┃MP4","type":3,"api":"./FTY/drpy2.min.js","ext":"./js/678.js"},
