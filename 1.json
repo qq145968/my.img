@@ -7,18 +7,18 @@
       "name": "豆瓣推荐┃公众号【米兔互联】",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "http://so.meto.fun/app/xhpmd.jar",
+      "jar": "http://so.bztu.cn/app/xhpmd.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://so.meto.fun/app/gonggao.json"
+      "ext": "http://so.bztu.cn/app/gonggao.json"
     },
     {
       "key": "米兔TV",
       "name": "📢公告❤更新:3/1❤",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "http://so.meto.fun/app/xhpmd.jar",
+      "jar": "http://so.bztu.cn/app/xhpmd.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -28,7 +28,7 @@
       "name": "🚦配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "http://so.meto.fun/app/spider.jar",
+      "jar": "http://so.bztu.cn/app/spider.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
