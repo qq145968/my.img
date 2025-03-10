@@ -1,6 +1,6 @@
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740735096358/f0228.txt;md5;d120ab9d895e9b465616b544ea5a3878",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://深色壁纸.xxooo.cf/","warningText":"【米兔TV】提示:📢接口软件每天签到免费观看📢长期维护",
 "sites":[
        {
       "key": "豆瓣",
@@ -88,13 +88,13 @@
           "ratio": 1.597
       }
     },
-{"key":"本地","name":"📁文件┃本地┃资源","type":3,"api":"csp_LocalFile","jar":"http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php"},
-{"key":"我的夸克","name":"📁文件┃夸克┃资源","type":3,"api":"csp_MyQuark","jar":"http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},
+{"key":"本地","name":"📁文件┃本地┃资源","type":3,"api":"csp_LocalFile","jar":"http://so.bztu.cn/app/spider.jar"},
+{"key":"我的夸克","name":"📁文件┃夸克┃资源","type":3,"api":"csp_MyQuark","jar":"http://so.bztu.cn/app/spider.jar","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},
 "style":{"type":"list"}},
-{"key":"我的阿里","name":"📁文件┃阿里┃资源","type":3,"api":"csp_MyAli","jar":"http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"我的阿里","name":"📁文件┃阿里┃资源","type":3,"api":"csp_MyAli","jar":"http://so.bztu.cn/app/spider.jar","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 "style":{"type":"list"}},
-{"key":"我的UC","name":"📁文件┃UC┃资源","type":3,"api":"csp_MyUc","jar":"http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},
-"style":{"type":"list"}},        
+{"key":"我的UC","name":"📁文件┃UC┃资源","type":3,"api":"csp_MyUc","jar":"http://so.bztu.cn/app/spider.jar","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},
+"style":{"type":"list"}},
     {
       "key": "央视大全",
       "name": "🍵央视┃大全",
