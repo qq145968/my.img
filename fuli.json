@@ -1,5 +1,7 @@
 {
-  "sites": [
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740735096358/f0228.txt;md5;d120ab9d895e9b465616b544ea5a3878",
+"wallpaper":"https://深色壁纸.xxooo.cf/","warningText":"【米兔TV】提示:📢接口软件每天签到免费观看📢长期维护",
+"sites":[
     {
       "key": "❤线路一",
       "name": "❤线路一",
@@ -27,27 +29,41 @@
       "api": "https://fqzy.me//api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "categories": [
+        "偷拍自拍",
+        "国产大制作",
+        "乱伦毁三观",
+        "主播女网红",
+        "黑料网曝",
+        "高清无码",
+        "中文字幕",
+        "淫乱学生妹",
+        "高清有码"
+      ]
     },
     {
       "key": "❤线路四",
       "name": "❤线路四",
       "type": 0,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url=",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤线路五",
-      "name": "❤线路五",
-      "type": 0,
       "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://nxbfvod.com/?url=",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "categories": [
+        "国产自拍",
+        "偷拍偷窥",
+        "探花约炮",
+        "网曝吃瓜",
+        "主播诱惑",
+        "日韩无码",
+        "日韩主播",
+        "中文字幕",
+        "AV解说",
+        "强奸乱伦",
+        "女优明星"
+      ]
     }
   ],
   "lives": [
@@ -82,7 +98,7 @@
     {
       "name": "飞捷",
       "type": 1,
-      "url": "https://fjkkk.cn/toujiexisiquanjia.php?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -103,7 +119,7 @@
     {
       "name": "集象",
       "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -129,7 +145,7 @@
     {
       "name": "急速1",
       "type": 1,
-      "url": "https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -155,7 +171,7 @@
     {
       "name": "急速3",
       "type": 1,
-      "url": "https://jx.parwix.com:4433/player/?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -181,7 +197,7 @@
     {
       "name": "VIP3",
       "type": 1,
-      "url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -202,7 +218,7 @@
     {
       "name": "急速6",
       "type": 1,
-      "url": "http://api.vip123kan.vip/?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -221,7 +237,7 @@
     {
       "name": "急速8",
       "type": 1,
-      "url": "http://yaluan.520say.cn/home/api?type=ys&uid=65588&key=cdeghikortvAFGI078&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "CL4K",
@@ -246,7 +262,7 @@
     {
       "name": "急速4",
       "type": 1,
-      "url": "https://jf.96ym.cn/home/api?type=ys&uid=1319830&key=cefgnoprtvxyzBGKP6&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -267,7 +283,7 @@
     {
       "name": "急速5",
       "type": 1,
-      "url": "http://ck.laobandq.com/3515240842.php?pltfrom=1100&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -293,12 +309,12 @@
     {
       "name": "急速9",
       "type": 1,
-      "url": "https://api.exeyz.cc/api/Json.php?url="
+      "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
       "name": "海星解析",
       "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=1735&my=hjklmsuwyzDGHIKXY3&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -319,7 +335,7 @@
     {
       "name": "VIP1",
       "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -340,7 +356,7 @@
     {
       "name": "MuX蓝光解析（辉夜）",
       "type": 1,
-      "url": "https://vvip.funsline.cn/api/?key=8vMzuXb87MWtyJeECE&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -370,7 +386,7 @@
     {
       "name": "猫群专用解析y1",
       "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -411,7 +427,7 @@
     {
       "name": "猫群专用解析y2",
       "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&fs=sm&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -452,7 +468,7 @@
     {
       "name": "猫群专用解析y3",
       "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&fs=hz&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -493,7 +509,7 @@
     {
       "name": "猫群专用解析02",
       "type": 1,
-      "url": "https://json.pangujiexi.com/json.php?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -509,7 +525,7 @@
     {
       "name": "猫群专用解析03",
       "type": 1,
-      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "Itnb",
@@ -520,7 +536,7 @@
     {
       "name": "猫群专用解析04",
       "type": 1,
-      "url": "http://api.vip123kan.vip/?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -540,7 +556,7 @@
     {
       "name": "猫群专用解析05",
       "type": 1,
-      "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -569,7 +585,7 @@
     {
       "name": "猫群专用解析06",
       "type": 1,
-      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -598,7 +614,7 @@
     {
       "name": "急速2",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -613,7 +629,7 @@
     {
       "name": "群鑫影视",
       "type": 1,
-      "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=",
+      "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
         "flag": [
           "youku",
@@ -871,6 +887,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "https://tool.weetai.cn/api/images/05.png"
+  ]
 }
