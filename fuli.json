@@ -23,7 +23,7 @@
     {
       "key": "❤色猫资源",
       "name": "❤色猫资源",
-      "type": 3,
+      "type": 0,
       "api": "https://caiji.semaozy.net/inc/api.php",
       "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
       "searchable": 1,
