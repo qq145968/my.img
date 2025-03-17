@@ -4,7 +4,7 @@
       "key": "❤乐播资源",
       "name": "❤乐播资源",
       "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
+      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
       "playUrl": "https://lbjx9.com/?url=",
       "searchable": 1,
       "quickSearch": 0,
@@ -33,8 +33,8 @@
     {
       "key": "❤番茄资源",
       "name": "❤番茄资源",
-      "type": 0,
-      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
