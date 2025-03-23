@@ -15,7 +15,7 @@
     },
 	 {
       "key": "米兔TV",
-      "name": "📢公告❤更新:3/7",
+      "name": "📢公告❤更新:3/24",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "http://so.bztu.cn/app/xhpmd.jar",
@@ -80,18 +80,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0
-		},
-		{
-			"key": "游戏直播",
-			"name": "🎮游戏┃直播",
-			"type": 3,
-			"api": "csp_LivingGuard",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": ""
 		},
 		{
 			"key": "悠悠",
@@ -166,14 +154,6 @@
 			"quickSearch": 0,
 			"api": "csp_AppGetGuard",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
-		},
-		{
-			"key": "︎酷云",
-			"name": "🐰米兔┃1080P",
-			"type": 3,
-			"quickSearch": 0,
-			"api": "csp_AppGetGuard",
-			"ext": "sHR2rlsfjI4L3t4RXQMknwIID6HUaZ7fMpUHnejxryN5hsS4yit06Lnf2r+dC+sQvVkljL9jiPtd8pMWr4fNfWKjGEfNt1bpDmN5e2aBCPjIZR4UXJCYTrfMnVcmHKgKoreMTaxuE5/5bSRuOI00lrntzq3KElTThhfQG1pBRYlruaU55rzaVwdDETvkWDgAa/b2wNbZqTrjcVemPpod4zhBsMUGnTLFIVIA01378wI="
 		},
 		{
 			"key": "csp_Wogg",
@@ -320,6 +300,7 @@
 			"searchable": 0,
 			"ext": ""
 		}
+		
 	],
 	"parses": [{
 			"name": "Json聚合",
