@@ -46,7 +46,7 @@
       "key": "❤线路四",
       "name": "❤线路四",
       "type": 0,
-      "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://nxbfvod.com/?url=",
       "searchable": 1,
       "quickSearch": 0,
